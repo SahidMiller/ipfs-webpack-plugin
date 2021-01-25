@@ -1,0 +1,17 @@
+{
+  "name": "ipfs-webpack-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cached": "^1.1.1",
+    "gulp-ipfs": "github:sahidmiller/gulp-ipfs",
+    "through2": "^4.0.2"
+  }
+}
